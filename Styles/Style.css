@@ -25,6 +25,15 @@ body{
     
 }
 
+.link_1{
+    color: #fff;
+    text-decoration: none;
+}
+
+.link_1:hover{
+    color: #000;
+}
+
 .text{
     color: #fff;
     margin: 10px;
