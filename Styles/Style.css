@@ -1,0 +1,31 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #000;
+}
+
+.div_1{
+    margin-top: 200px;
+}
+
+.btn{
+    margin: 10px;
+    padding: 10px 70px;
+    background: #000;
+    color: #fff;
+    border: 2px solid #fff;
+}
+
+.btn:hover{
+    background: #fff;
+    color: #000;
+    cursor: pointer;
+    
+}
+
+.text{
+    color: #fff;
+    margin: 10px;
+}
